@@ -4,7 +4,7 @@ const cacheName = 'v1';
 // Fichiers à mettre en cache
 const cacheAssets = [
   'index.html',
-  'app.js',
+  
   'favicon.png'
 ];
 
